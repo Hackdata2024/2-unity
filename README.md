@@ -1,5 +1,7 @@
 # 2-unity
 
+## Project Name: XR CLASS
+
 ## Project Description: 
 We have developed a VR app that caters the education system of shcools and colleges, fullfilling the lack of visualization of complex topics. In this project, we have developed custom labs for certain topics for Biology and Chemistry for school students. We aim to popularize AR/VR education in tier-2 and tier-3 cities by making it affordable.
 
@@ -34,10 +36,26 @@ The puporse of the project is to make the understanding of complex topics easier
 - The whole application only requrires only Rs. 2000 to experience
 - better than occulus in terms of affordability.
 
-These features aim to create a robust and effective VR education platform that enhances the understanding of complex topics for students in schools and colleges.
+## How XR class Addresses Future Challenges?
+
+The challenges that can arrive in future are scalability and other business related issues. We have a foolproof business plan to tackle the challenges.
+
+## Business Plan
+
+For scaling this idea from just a mere project to actual business, we need to hire a team and take up contracts from different instituions to build them up custom VR labs. In Our case, the institutions shall be schools and colleges. 
+
+## Revenue
+We shall take up orders from a certain institutions and charge thema monthly retainer for our custojm VR classes. This shall bring in regular money to the firm.
 
 # Team Members:
 1. Sarthak Awasthi (Leader):
 2. Shubhankar Nath
 3. Ujjwal Sinha
 4. Tejas Kumar
+
+# Tech Used
+
+
+# how to run the project?
+
+
