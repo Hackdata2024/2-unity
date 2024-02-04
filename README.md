@@ -3,7 +3,7 @@
 ## Project Name: XR CLASS
 
 ## Project Description: 
-We have developed a VR app that caters the education system of shools and colleges, fullfilling the lack of visualization of complex topics. In this project, we have developed custom labs for certain topics for Biology and Chemistry for school students. We aim to popularize AR/VR education in tier-2 and tier-3 cities by making it affordable.
+We have developed a VR app that caters the education system of shools and colleges, fulfilling the lack of visualization of complex topics. In this project, we have developed custom labs for certain topics for Biology and Chemistry for school students. We aim to popularize AR/VR education in tier-2 and tier-3 cities by making it affordable.
 
 ## Purpose: 
 The puporse of the project is to make the understanding of complex topics easier through comprehensive VR labs. Students will be able to understand complex topics like the Solid State or components of heart very easily. They will be able to interact with the application, thus making studying fun, interactive and affordable.
