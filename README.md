@@ -48,13 +48,18 @@ For scaling this idea from just a mere project to actual business, we need to hi
 We shall take up orders from a certain institutions and charge thema monthly retainer for our custojm VR classes. This shall bring in regular money to the firm.
 
 # Team Members:
-1. Sarthak Awasthi (Leader):
-2. Shubhankar Nath
-3. Ujjwal Sinha
-4. Tejas Kumar
+1. Sarthak Awasthi (Leader): Unity developer in this project. Has full understanding of Unity and Unreal engine. Fully efficient in C#
+2. Shubhankar Nath: AI developer in the project. Proficient in Python and all its Librararies. Has great understanding of AI and ML
+3. Ujjwal Sinha: UI/UX designer. Ujjwal is proficient in FIGMA and has the best instinct on what goes best in any design.
+4. Tejas Kumar: Blender developer, knows blender as well as python. Tejas is aa web developer who uses Django.
 
 # Tech Used
 
+Unity: Cross-platform game engine for 2D/3D development.
+Blender: Open-source 3D modeling and animation software.
+Android development: Creating apps for the Android operating system using Java/Kotlin and Android Studio.
+C#(Programing Language):It combines the power of object-oriented programming with the flexibility of a modern, type-safe language.
+convai: enable NPCs with intelligence such that they can converse naturally with user via voice or text.
 
 # how to run the project?
 
