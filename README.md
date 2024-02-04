@@ -68,3 +68,19 @@ Step 4 - Connect your phone with the help of a USB Cable while ensuring that USB
 Step 5 - Enable VR Cardboard setting from "Build Setting Player" section.<br />
 Step 6 - Click on "Build and Run" and save the APK file on your device. Wait till the deployment is done successfully and the app will be installed on your phone.<br />
 Step 7 - Safely place your phone inside VR Cardboard and get ready to dive into the immerive world of Virtual Education!<br />
+
+# Core Code
+```
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.SceneManagement;
+
+public class backtolab : MonoBehaviour
+{
+  public void scenechange(){
+    SceneManager.LoadScene("Lab");
+  }
+}
+```
+The above code is one of the most vital aspects of our project. It enables us to change from one scene to another. Our project clearly utilizes a lot of scripts having similar functionality like gotodark, gotonacl, gotoorganic, etc.
